@@ -15,3 +15,4 @@
 <img align="left" alt="mysql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:11px;"/>
 <img align="left" alt="mysql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:11px;"/>
 <img align="left" alt="mysql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:11px;/>
+<img align="left" alt="mysql" width="50px" src="https://allvectorlogo.com/img/2017/02/oracle-database-logo.png" style="padding-right:11px;>
